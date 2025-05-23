@@ -66,6 +66,10 @@ function loginProcess(e) {
             <div className="d-grid gap-2">
                 <button type="submit" className="btn btn-primary btn-block">Login</button>
             </div>
+            <div className="d-grid gap-2">
+                <h6>Username : fema@gmail.com</h6>
+                <h6>Password : 12345678</h6>
+            </div>
         </form>
     );
 };
